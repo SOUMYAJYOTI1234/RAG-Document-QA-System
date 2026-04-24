@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+data/
+vector_store/
+logs/
+*.egg-info/
+dist/
+build/
+.venv/

@@ -1,0 +1,29 @@
+# Core LLM & RAG
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-groq==0.3.2
+langchain-huggingface==0.2.0
+
+# Embeddings
+sentence-transformers==3.4.1
+
+# Vector Store
+faiss-cpu==1.9.0.post1
+
+# PDF Parsing
+PyMuPDF==1.25.5
+
+# API Layer
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+python-multipart==0.0.20
+
+# UI
+streamlit==1.44.1
+
+# Environment & Utilities
+python-dotenv==1.1.0
+requests==2.32.3
+
+# Database
+# SQLite is included in Python stdlib — no extra package needed
