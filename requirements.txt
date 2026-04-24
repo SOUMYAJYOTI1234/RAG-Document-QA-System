@@ -20,6 +20,7 @@ python-multipart==0.0.20
 
 # UI
 streamlit==1.44.1
+pandas==2.2.3
 
 # Environment & Utilities
 python-dotenv==1.1.0
